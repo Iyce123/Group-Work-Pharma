@@ -1,0 +1,25 @@
+.button {
+  -fx-display: inline-block;
+  -fx-padding: 8px 16px;
+  -fx-font-size: 12px;
+  -fx-cursor: pointer;
+  -fx-text-align: center;
+  -fx-font-weight: bold;
+  -fx-outline: none;
+  -fx-color: #0000;
+  -fx-background-color:  #00b300;
+  -fx-background-radius: 18px;
+  -fx-border: none;
+  -fx-border-radius: 15px;
+  
+}
+
+.button:hover {
+	-fx-background-color: #00e600
+	}
+	
+#text {
+
+	-fx-background-radius: 20px;
+	-fx-background-color: #e6e6e6;	
+}

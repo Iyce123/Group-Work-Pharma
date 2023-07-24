@@ -1,0 +1,11 @@
+Administrators:
+	- admin admin
+
+Managers:
+	- manager manager
+	- mike	mike
+
+Pharmacists:
+	- pharm pharm
+	- fulbert fulbert
+	- red readhead

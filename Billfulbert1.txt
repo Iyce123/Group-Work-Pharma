@@ -1,0 +1,11 @@
+                  Pharmacy                 
+                                           
+Pharmacist: Fulbert Kopa
+
+Date :  2019/01/31 10:22:53
+                                           
+-------------------------------------------
+
+Medicine         Price         Quantity        Total price
+
+Oki		 70.0		10		700.0
